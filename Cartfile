@@ -1,0 +1,5 @@
+github "kishikawakatsumi/UICKeyChainStore" ~> 2.1.1
+github "Alamofire/Alamofire" ~> 4.5.0
+github "DaveWoodCom/XCGLogger" ~> 4.0.0
+github "AgileBits/onepassword-extension" "d99f5d7a4c7328f8e3a8d1e7aff455d1072e0c19"
+github "kingfai/carthage_test_thekit.git" ~> 4.4.1
